@@ -7,7 +7,7 @@ cask "leftopen" do
   desc "See what your tools left running on localhost"
   homepage "https://github.com/SonghaiFan/leftopen"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "LeftOpen.app"
 
