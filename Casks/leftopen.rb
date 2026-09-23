@@ -1,6 +1,6 @@
 cask "leftopen" do
-  version "0.3.1"
-  sha256 "0e756773dfc0f1d651786e2cc2d172506e160dc59e8334bde2b25a9f9550a2ec"
+  version "0.3.2"
+  sha256 "5e2ba2eb2f7e8f190f722890e99e621a23b638e1b596cae60ff20a6e49ce7810"
 
   url "https://github.com/SonghaiFan/leftopen/releases/download/v#{version}/LeftOpen.zip"
   name "LeftOpen"
