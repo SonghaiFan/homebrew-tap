@@ -1,8 +1,8 @@
 cask "leftopen" do
-  version "0.3.4"
-  sha256 "24fd0b379f4b01739f04d5e09c74cd19aaa72dee45d3a3b16dab46bf0a5ebd6d"
+  version "0.3.5"
+  sha256 "00b02aecf561acb4b6973de306fbf75c76ce65738477013de3b88fa6bdb0efa8"
 
-  url "https://github.com/SonghaiFan/leftopen/releases/download/v#{version}/LeftOpen.zip"
+  url "https://github.com/SonghaiFan/leftopen/releases/download/v#{version}/LeftOpen-release.zip"
   name "LeftOpen"
   desc "See what your tools left running on localhost"
   homepage "https://github.com/SonghaiFan/leftopen"
